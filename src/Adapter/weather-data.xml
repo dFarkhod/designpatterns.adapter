@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weather>
+    <location city="kul" country="my" />
+    <temperature value="28" unit="celsius"/>
+    <humidity value="72" unit="%"/>
+    <lastupdated value="2022-10-15T09:05:07"/>
+</weather>
